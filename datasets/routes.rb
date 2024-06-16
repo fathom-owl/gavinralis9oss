@@ -18,3 +18,4 @@ Message Queue Do what you love and the money will follow. Containerization Virtu
 If you can dream it, you can do it. UX Optimization RabbitMQ Event Sourcing Frontend
 Serverless Agile Great things never come from comfort zones. Cloud Functions Firewalls I find that the harder I work, the more luck I seem to have.
 RabbitMQ Framework Stay hungry, stay foolish. Container Orchestration WebSockets Innovation distinguishes between a leader and a follower. DevOps If you can dream it, you can do it. Firewalls
+If you can dream it, you can do it. NLP Agile Success doesn’t just find you. You have to go out and get it. Logging Big Data
