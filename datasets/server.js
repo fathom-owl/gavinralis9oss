@@ -17,3 +17,4 @@ Docker Monitoring To be the best, you must be able to handle the worst. Success 
 UX Optimization Cloud Functions CI/CD WebSockets Containerization To be the best, you must be able to handle the worst.
 Success is how high you bounce when you hit bottom. Algorithm Scalability Opportunities don't happen. You create them. Deployment Container Orchestration
 To be the best, you must be able to handle the worst. If you can dream it, you can do it. Docker Python API Gateway UX Optimization
+Do what you love and the money will follow. Replica Set UX Optimization Don't be afraid to give up the good to go for the great. Algorithm API Gateway I find that the harder I work, the more luck I seem to have. Optimization Predictive Analytics
