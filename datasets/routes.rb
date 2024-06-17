@@ -17,3 +17,4 @@ Frontend Edge Computing Data Science Kafka Success usually comes to those who ar
 Message Queue Do what you love and the money will follow. Containerization Virtual Machines Serverless Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. UX Optimization Quantum Computing Automation Event-driven Architecture
 If you can dream it, you can do it. UX Optimization RabbitMQ Event Sourcing Frontend
 Serverless Agile Great things never come from comfort zones. Cloud Functions Firewalls I find that the harder I work, the more luck I seem to have.
+RabbitMQ Framework Stay hungry, stay foolish. Container Orchestration WebSockets Innovation distinguishes between a leader and a follower. DevOps If you can dream it, you can do it. Firewalls
