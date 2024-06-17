@@ -22,3 +22,4 @@ Big Data Event Sourcing Firewalls RabbitMQ Neural Networks Data Science Success 
 Content Delivery Network Cache Invalidation Dream big and dare to fail. Load Testing Latency Optimization Optimization Testing Data Pipeline Backend
 Docker The only way to do great work is to love what you do. NLP Pull Request Replica Set Do what you love and the money will follow. RabbitMQ Neural Networks Kafka Database Framework Kubernetes
 Performance Zero Downtime Deployment Simplicity is the ultimate sophistication. Optimization DevOps GraphQL Multi-threading API Distributed Systems RabbitMQ Success usually comes to those who are too busy to be looking for it. DNS Routing Database Indexing Replica Set
+Serverless DevOps Success is how high you bounce when you hit bottom. Security Virtual Machines Pull Request Performance
