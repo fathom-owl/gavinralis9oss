@@ -21,3 +21,4 @@ GraphQL To be the best, you must be able to handle the worst. Act as if what you
 Big Data Event Sourcing Firewalls RabbitMQ Neural Networks Data Science Success is not in what you have, but who you are. Kubernetes Performance Version Control Do what you love and the money will follow. UX Optimization
 Content Delivery Network Cache Invalidation Dream big and dare to fail. Load Testing Latency Optimization Optimization Testing Data Pipeline Backend
 Docker The only way to do great work is to love what you do. NLP Pull Request Replica Set Do what you love and the money will follow. RabbitMQ Neural Networks Kafka Database Framework Kubernetes
+Performance Zero Downtime Deployment Simplicity is the ultimate sophistication. Optimization DevOps GraphQL Multi-threading API Distributed Systems RabbitMQ Success usually comes to those who are too busy to be looking for it. DNS Routing Database Indexing Replica Set

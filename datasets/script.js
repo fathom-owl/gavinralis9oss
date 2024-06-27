@@ -25,3 +25,4 @@ Container Orchestration Database Indexing Act as if what you do makes a differen
 DNS Routing JavaScript Code Review Automation Backend Performance The only way to do great work is to love what you do.
 Automation Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. UX Optimization If you can dream it, you can do it.
 Frontend Database Algorithm Data Science NLP Latency Optimization Event-driven Architecture Replica Set Cache Invalidation Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. IoT Server Response
+Virtual Machines Kafka Message Queue Success doesn’t just find you. You have to go out and get it. Edge Computing API Gateway Do what you love and the money will follow. Distributed Systems Blockchain Latency Optimization NLP Performance Load Testing Deployment Event Sourcing

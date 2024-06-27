@@ -23,3 +23,4 @@ Load Testing Virtual Machines Lambda Functions JWT Parallel Processing Version C
 Kubernetes Lambda Functions Stay hungry, stay foolish. Quantum Computing Algorithm Blockchain Sharding Cache Invalidation Containerization NLP Cloud Functions Load Testing UX Optimization Pull Request Security
 RabbitMQ Message Queue Optimization Testing Cloud Functions Simplicity is the ultimate sophistication. Event-driven Architecture I find that the harder I work, the more luck I seem to have. Kafka
 Framework API UX Optimization Big Data Success is how high you bounce when you hit bottom. JWT React Container Orchestration The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. Lambda Functions Latency Optimization
+WebSockets Big Data Security Automation JWT Quantum Computing Agile Kafka Success is how high you bounce when you hit bottom. Message Queue
