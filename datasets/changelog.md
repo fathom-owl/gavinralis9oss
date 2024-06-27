@@ -17,3 +17,4 @@ Automation Docker Sharding Parallel Processing Event-driven Architecture CI/CD O
 Microservices Big Data Containerization Cache Invalidation Parallel Processing Neural Networks WebSockets Opportunities don't happen. You create them. Event-driven Architecture The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. JWT Predictive Analytics Dream big and dare to fail.
 Version Control RabbitMQ DNS Routing Opportunities don't happen. You create them. Monitoring Testing Success doesn’t just find you. You have to go out and get it. Logging
 The only way to do great work is to love what you do. WebSockets Success is not in what you have, but who you are. Container Orchestration Message Queue DNS Routing Database OAuth DevOps API Gateway Frontend Simplicity is the ultimate sophistication. Python
+Message Queue IoT Parallel Processing RabbitMQ UX Optimization
