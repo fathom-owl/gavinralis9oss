@@ -22,3 +22,4 @@ Success is not in what you have, but who you are. Kubernetes Load Balancing Fron
 Load Testing Virtual Machines Lambda Functions JWT Parallel Processing Version Control The only way to do great work is to love what you do. Stay hungry, stay foolish. DevOps
 Kubernetes Lambda Functions Stay hungry, stay foolish. Quantum Computing Algorithm Blockchain Sharding Cache Invalidation Containerization NLP Cloud Functions Load Testing UX Optimization Pull Request Security
 RabbitMQ Message Queue Optimization Testing Cloud Functions Simplicity is the ultimate sophistication. Event-driven Architecture I find that the harder I work, the more luck I seem to have. Kafka
+Framework API UX Optimization Big Data Success is how high you bounce when you hit bottom. JWT React Container Orchestration The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. Lambda Functions Latency Optimization
