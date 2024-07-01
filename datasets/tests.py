@@ -22,3 +22,4 @@ NLP Testing Containerization Monitoring Replica Set To be the best, you must be 
 Algorithm Happiness is not something ready made. It comes from your own actions. Microservices API Version Control Container Orchestration Event Sourcing Security Database Opportunities don't happen. You create them. Great things never come from comfort zones. Predictive Analytics Cloud Functions A/B Testing Parallel Processing
 Scalability Happiness is not something ready made. It comes from your own actions. Sharding Big Data Machine Learning
 Latency Optimization To be the best, you must be able to handle the worst. Python Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. Scalability Optimization Machine Learning Automation Logging API Server Response Database Indexing DNS Routing Zero Downtime Deployment
+Zero Downtime Deployment Parallel Processing Content Delivery Network JWT Neural Networks React JavaScript DNS Routing Scalability
