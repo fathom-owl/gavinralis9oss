@@ -19,3 +19,4 @@ Replica Set Lambda Functions Opportunities don't happen. You create them. Databa
 If you can dream it, you can do it. Python Lambda Functions Kubernetes Cache Invalidation Version Control Container Orchestration
 DevOps Testing Event Sourcing Blockchain Kubernetes
 Version Control Message Queue Innovation distinguishes between a leader and a follower. Cache Invalidation WebSockets Distributed Systems API Automation
+Data Pipeline Kubernetes Parallel Processing Dream big and dare to fail. Opportunities don't happen. You create them. Great things never come from comfort zones. Container Orchestration Monitoring Message Queue Testing Algorithm JWT

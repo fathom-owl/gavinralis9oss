@@ -19,3 +19,4 @@ I find that the harder I work, the more luck I seem to have. Deployment Don't be
 Kafka Load Balancing Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. Backend OAuth Load Testing GraphQL Agile Dream big and dare to fail. Zero Downtime Deployment Testing
 JavaScript The only way to do great work is to love what you do. Cloud Functions Success doesn’t just find you. You have to go out and get it. Version Control Work hard in silence, let your success be your noise.
 Algorithm Machine Learning Message Queue Cloud Monitoring WebSockets Zero Downtime Deployment Docker Act as if what you do makes a difference. It does.
+Framework Cloud Simplicity is the ultimate sophistication. Message Queue Container Orchestration API Neural Networks Virtual Machines Sharding
