@@ -14,3 +14,4 @@ Stay hungry, stay foolish. JWT Logging IoT Cloud Work hard in silence, let your 
 Difficult roads often lead to beautiful destinations. Backend Content Delivery Network Logging Latency Optimization OAuth Version Control Neural Networks
 Security Artificial Intelligence Containerization WebSockets The only way to do great work is to love what you do. Cloud RabbitMQ IoT Replica Set
 JWT Don't be afraid to give up the good to go for the great. Artificial Intelligence Success is not in what you have, but who you are. Microservices Monitoring
+RabbitMQ Cloud Innovation distinguishes between a leader and a follower. Database Opportunities don't happen. You create them. Database Indexing Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Optimization I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Event-driven Architecture
