@@ -17,3 +17,4 @@ Optimization Success doesn’t just find you. You have to go out and get it. DNS R
 Predictive Analytics Do what you love and the money will follow. If you can dream it, you can do it. Automation Success is how high you bounce when you hit bottom. Zero Downtime Deployment DNS Routing Work hard in silence, let your success be your noise. Multi-threading Algorithm DevOps Message Queue React Pull Request Microservices
 Replica Set Lambda Functions Opportunities don't happen. You create them. Database Indexing Optimization Cloud Functions Performance Zero Downtime Deployment Success is not in what you have, but who you are. Testing Pull Request NLP Version Control Data Pipeline
 If you can dream it, you can do it. Python Lambda Functions Kubernetes Cache Invalidation Version Control Container Orchestration
+DevOps Testing Event Sourcing Blockchain Kubernetes
