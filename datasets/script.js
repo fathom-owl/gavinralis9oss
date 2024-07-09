@@ -23,3 +23,4 @@ Big Data Latency Optimization Success usually comes to those who are too busy to
 JWT RabbitMQ Success usually comes to those who are too busy to be looking for it. Load Balancing Stay hungry, stay foolish. Automation Edge Computing Data Pipeline Do what you love and the money will follow. Frontend Quantum Computing Zero Downtime Deployment
 Container Orchestration Database Indexing Act as if what you do makes a difference. It does. Docker JavaScript
 DNS Routing JavaScript Code Review Automation Backend Performance The only way to do great work is to love what you do.
+Automation Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. UX Optimization If you can dream it, you can do it.
