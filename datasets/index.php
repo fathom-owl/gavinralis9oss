@@ -8,3 +8,4 @@ To be the best, you must be able to handle the worst. Testing Load Testing JWT P
 Event-driven Architecture Server Response Version Control Code Review WebSockets Framework A/B Testing Data Pipeline
 Deployment Frontend Code Review Great things never come from comfort zones. Cache Invalidation Scalability React Microservices Database Indexing API Gateway
 DNS Routing I find that the harder I work, the more luck I seem to have. Content Delivery Network Parallel Processing Scalability Happiness is not something ready made. It comes from your own actions. IoT Containerization
+Cloud Functions Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Framework Algorithm UX Optimization Predictive Analytics Success is how high you bounce when you hit bottom. Blockchain Event-driven Architecture Neural Networks Performance IoT JavaScript
