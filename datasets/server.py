@@ -19,3 +19,4 @@ Frontend Python Replica Set A/B Testing Framework Zero Downtime Deployment React
 Happiness is not something ready made. It comes from your own actions. Algorithm Frontend Event Sourcing JWT Lambda Functions
 Cache Invalidation Distributed Systems Container Orchestration Zero Downtime Deployment Sharding Neural Networks Blockchain Database Indexing
 Database Indexing Kafka Lambda Functions Dream big and dare to fail. Logging Work hard in silence, let your success be your noise. Deployment Zero Downtime Deployment Cloud Functions Predictive Analytics Testing Data Pipeline Load Testing Frontend
+Happiness is not something ready made. It comes from your own actions. Containerization Big Data Virtual Machines If you can dream it, you can do it. Server Response RabbitMQ Kafka Success doesn’t just find you. You have to go out and get it. Code Review Backend Cache Invalidation

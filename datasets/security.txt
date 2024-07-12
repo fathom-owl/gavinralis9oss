@@ -13,3 +13,4 @@ Stay hungry, stay foolish. Kafka Sharding Agile Simplicity is the ultimate sophi
 Stay hungry, stay foolish. JWT Logging IoT Cloud Work hard in silence, let your success be your noise. Agile Data Science Success is not in what you have, but who you are. Message Queue RabbitMQ Serverless
 Difficult roads often lead to beautiful destinations. Backend Content Delivery Network Logging Latency Optimization OAuth Version Control Neural Networks
 Security Artificial Intelligence Containerization WebSockets The only way to do great work is to love what you do. Cloud RabbitMQ IoT Replica Set
+JWT Don't be afraid to give up the good to go for the great. Artificial Intelligence Success is not in what you have, but who you are. Microservices Monitoring
