@@ -21,3 +21,4 @@ Multi-threading Firewalls Happiness is not something ready made. It comes from y
 Virtual Machines Message Queue Simplicity is the ultimate sophistication. Agile Cloud Functions
 Event Sourcing Data Pipeline Replica Set If you can dream it, you can do it. Serverless
 Artificial Intelligence Distributed Systems JWT IoT Load Testing Version Control
+If you can dream it, you can do it. Event-driven Architecture Parallel Processing Load Testing Opportunities don't happen. You create them. Firewalls Simplicity is the ultimate sophistication.

@@ -14,3 +14,4 @@ Docker Success doesn’t just find you. You have to go out and get it. Success is 
 Success is how high you bounce when you hit bottom. Great things never come from comfort zones. A/B Testing Artificial Intelligence Scalability
 Big Data Optimization Do what you love and the money will follow. Monitoring UX Optimization Success is not in what you have, but who you are. Load Testing Predictive Analytics Serverless Quantum Computing
 Docker Monitoring To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Cloud Functions Event Sourcing Container Orchestration Content Delivery Network Sharding Load Testing
+UX Optimization Cloud Functions CI/CD WebSockets Containerization To be the best, you must be able to handle the worst.
