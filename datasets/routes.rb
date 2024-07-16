@@ -15,3 +15,4 @@ Success usually comes to those who are too busy to be looking for it. Success do
 OAuth Pull Request NLP IoT Monitoring Data Pipeline CI/CD
 Frontend Edge Computing Data Science Kafka Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. Data Pipeline Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Artificial Intelligence If you can dream it, you can do it. GraphQL Agile
 Message Queue Do what you love and the money will follow. Containerization Virtual Machines Serverless Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. UX Optimization Quantum Computing Automation Event-driven Architecture
+If you can dream it, you can do it. UX Optimization RabbitMQ Event Sourcing Frontend
