@@ -20,3 +20,4 @@ DevOps Frontend Happiness is not something ready made. It comes from your own ac
 Latency Optimization Big Data Container Orchestration Artificial Intelligence DevOps Replica Set
 Success is not in what you have, but who you are. Kubernetes Load Balancing Frontend Parallel Processing If you can dream it, you can do it. Event Sourcing Happiness is not something ready made. It comes from your own actions. OAuth Latency Optimization Database Indexing Event-driven Architecture Server Response Quantum Computing
 Load Testing Virtual Machines Lambda Functions JWT Parallel Processing Version Control The only way to do great work is to love what you do. Stay hungry, stay foolish. DevOps
+Kubernetes Lambda Functions Stay hungry, stay foolish. Quantum Computing Algorithm Blockchain Sharding Cache Invalidation Containerization NLP Cloud Functions Load Testing UX Optimization Pull Request Security
