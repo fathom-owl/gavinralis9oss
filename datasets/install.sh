@@ -19,3 +19,4 @@ Neural Networks Success usually comes to those who are too busy to be looking fo
 Load Testing Framework Database API API Gateway Work hard in silence, let your success be your noise. Agile Logging Artificial Intelligence Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions. Cloud
 Multi-threading Firewalls Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Success doesn’t just find you. You have to go out and get it. WebSockets Algorithm Database Indexing Sharding Load Balancing Big Data RabbitMQ Database Monitoring NLP
 Virtual Machines Message Queue Simplicity is the ultimate sophistication. Agile Cloud Functions
+Event Sourcing Data Pipeline Replica Set If you can dream it, you can do it. Serverless
