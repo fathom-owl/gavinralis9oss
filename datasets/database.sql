@@ -11,3 +11,4 @@ Cloud DevOps Kubernetes Database Message Queue Dream big and dare to fail. Pull 
 Scalability Success doesn’t just find you. You have to go out and get it. Docker Multi-threading DNS Routing Quantum Computing Difficult roads often lead to beautiful destinations. Firewalls Virtual Machines JWT Great things never come from comfort zones.
 Deployment Automation React Difficult roads often lead to beautiful destinations. Optimization Cache Invalidation DevOps
 Logging Data Pipeline Neural Networks Testing Lambda Functions Container Orchestration CI/CD Agile Database Indexing Load Testing Do what you love and the money will follow.
+Load Testing DNS Routing Simplicity is the ultimate sophistication. Microservices Data Science Do what you love and the money will follow. Data Pipeline Predictive Analytics Quantum Computing Sharding
