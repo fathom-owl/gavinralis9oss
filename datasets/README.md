@@ -21,3 +21,4 @@ Virtual Machines CI/CD Frontend Latency Optimization Code Review Neural Networks
 Artificial Intelligence Load Testing Blockchain CI/CD A/B Testing Success doesn’t just find you. You have to go out and get it. Dream big and dare to fail. Algorithm
 Latency Optimization Opportunities don't happen. You create them. Deployment Big Data Frontend
 Firewalls React Cache Invalidation OAuth Kubernetes Testing Cloud Functions Container Orchestration Docker Database Indexing Sharding API Gateway API DNS Routing
+Version Control Firewalls JWT A/B Testing Work hard in silence, let your success be your noise. Database CI/CD Cloud Functions
