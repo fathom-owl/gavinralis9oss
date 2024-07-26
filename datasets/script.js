@@ -20,3 +20,4 @@ Success is not in what you have, but who you are. CI/CD Innovation distinguishes
 Logging Do what you love and the money will follow. Dream big and dare to fail. Deployment Database Neural Networks DNS Routing Firewalls Frontend Simplicity is the ultimate sophistication. If you can dream it, you can do it. Event-driven Architecture
 Dream big and dare to fail. DevOps Monitoring CI/CD Cloud
 Big Data Latency Optimization Success usually comes to those who are too busy to be looking for it. Backend Containerization Serverless Logging Cloud Version Control
+JWT RabbitMQ Success usually comes to those who are too busy to be looking for it. Load Balancing Stay hungry, stay foolish. Automation Edge Computing Data Pipeline Do what you love and the money will follow. Frontend Quantum Computing Zero Downtime Deployment

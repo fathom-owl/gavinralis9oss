@@ -12,3 +12,4 @@ Logging Machine Learning Multi-threading Lambda Functions Docker Replica Set Edg
 NLP Performance Work hard in silence, let your success be your noise. Great things never come from comfort zones. CI/CD Agile Server Response Message Queue Content Delivery Network Security Dream big and dare to fail. GraphQL
 Version Control WebSockets JavaScript Cloud Zero Downtime Deployment Content Delivery Network Edge Computing To be the best, you must be able to handle the worst. UX Optimization
 React UX Optimization Parallel Processing Quantum Computing Message Queue WebSockets Dream big and dare to fail. Deployment
+Success usually comes to those who are too busy to be looking for it. Data Pipeline OAuth RabbitMQ Security Success is not in what you have, but who you are. Monitoring Version Control
