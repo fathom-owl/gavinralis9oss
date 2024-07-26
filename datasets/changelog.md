@@ -14,3 +14,4 @@ Zero Downtime Deployment Performance I find that the harder I work, the more luc
 JWT Microservices Dream big and dare to fail. Success is how high you bounce when you hit bottom. Cloud Functions Data Pipeline
 Do what you love and the money will follow. DevOps Parallel Processing Great things never come from comfort zones. Monitoring
 Automation Docker Sharding Parallel Processing Event-driven Architecture CI/CD Optimization Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great.
+Microservices Big Data Containerization Cache Invalidation Parallel Processing Neural Networks WebSockets Opportunities don't happen. You create them. Event-driven Architecture The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. JWT Predictive Analytics Dream big and dare to fail.

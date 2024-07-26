@@ -18,3 +18,4 @@ Do what you love and the money will follow. Optimization Event Sourcing Cache In
 Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Framework Backend DevOps Agile
 Predictive Analytics Security JavaScript Algorithm Performance A/B Testing Happiness is not something ready made. It comes from your own actions. Data Pipeline Replica Set Neural Networks Microservices Backend Difficult roads often lead to beautiful destinations.
 Parallel Processing Frontend NLP Neural Networks Latency Optimization Automation Cloud Scalability
+Performance Difficult roads often lead to beautiful destinations. JavaScript To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. WebSockets Opportunities don't happen. You create them. Database Distributed Systems Machine Learning JWT
