@@ -13,3 +13,4 @@ Parallel Processing Sharding Load Testing Python Quantum Computing The only way 
 Zero Downtime Deployment Performance I find that the harder I work, the more luck I seem to have. Serverless To be the best, you must be able to handle the worst. Virtual Machines Microservices
 JWT Microservices Dream big and dare to fail. Success is how high you bounce when you hit bottom. Cloud Functions Data Pipeline
 Do what you love and the money will follow. DevOps Parallel Processing Great things never come from comfort zones. Monitoring
+Automation Docker Sharding Parallel Processing Event-driven Architecture CI/CD Optimization Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great.
