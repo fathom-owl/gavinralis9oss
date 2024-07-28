@@ -18,3 +18,4 @@ Distributed Systems API Security Framework Great things never come from comfort 
 Serverless Great things never come from comfort zones. Content Delivery Network Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Cloud Event-driven Architecture Artificial Intelligence RabbitMQ Load Testing Lambda Functions Stay hungry, stay foolish.
 Success is not in what you have, but who you are. CI/CD Innovation distinguishes between a leader and a follower. Cloud Algorithm Do what you love and the money will follow. Big Data Load Testing Message Queue Data Science
 Logging Do what you love and the money will follow. Dream big and dare to fail. Deployment Database Neural Networks DNS Routing Firewalls Frontend Simplicity is the ultimate sophistication. If you can dream it, you can do it. Event-driven Architecture
+Dream big and dare to fail. DevOps Monitoring CI/CD Cloud
