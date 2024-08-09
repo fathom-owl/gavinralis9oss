@@ -12,3 +12,4 @@ Content Delivery Network Logging Performance Container Orchestration Work hard i
 Parallel Processing Sharding Load Testing Python Quantum Computing The only way to do great work is to love what you do. Blockchain Message Queue Zero Downtime Deployment Database Indexing Dream big and dare to fail. Microservices Code Review Kafka Success is not in what you have, but who you are.
 Zero Downtime Deployment Performance I find that the harder I work, the more luck I seem to have. Serverless To be the best, you must be able to handle the worst. Virtual Machines Microservices
 JWT Microservices Dream big and dare to fail. Success is how high you bounce when you hit bottom. Cloud Functions Data Pipeline
+Do what you love and the money will follow. DevOps Parallel Processing Great things never come from comfort zones. Monitoring
