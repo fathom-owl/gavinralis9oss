@@ -18,3 +18,4 @@ GraphQL Monitoring React Data Pipeline Backend
 Server Response Automation Docker Python Machine Learning Do what you love and the money will follow. Event Sourcing UX Optimization
 Containerization Replica Set Python DevOps Sharding Frontend WebSockets Dream big and dare to fail. Code Review Server Response Machine Learning Automation Optimization
 Virtual Machines CI/CD Frontend Latency Optimization Code Review Neural Networks WebSockets Serverless Firewalls Deployment Kubernetes Agile
+Artificial Intelligence Load Testing Blockchain CI/CD A/B Testing Success doesn’t just find you. You have to go out and get it. Dream big and dare to fail. Algorithm

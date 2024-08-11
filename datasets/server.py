@@ -16,3 +16,4 @@ IoT Algorithm Version Control Edge Computing GraphQL Simplicity is the ultimate 
 Parallel Processing Sharding Container Orchestration WebSockets Opportunities don't happen. You create them. Event Sourcing Pull Request Python Server Response Success is not in what you have, but who you are.
 Dream big and dare to fail. Neural Networks Message Queue Python Data Science Version Control DevOps Work hard in silence, let your success be your noise. Distributed Systems
 Frontend Python Replica Set A/B Testing Framework Zero Downtime Deployment React OAuth Simplicity is the ultimate sophistication.
+Happiness is not something ready made. It comes from your own actions. Algorithm Frontend Event Sourcing JWT Lambda Functions
