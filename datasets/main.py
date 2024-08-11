@@ -9,3 +9,4 @@ Predictive Analytics Monitoring Cloud Big Data NLP Work hard in silence, let you
 Frontend Cloud Functions Docker Latency Optimization WebSockets Predictive Analytics Load Balancing Containerization Artificial Intelligence DNS Routing
 Agile Database Indexing Database UX Optimization IoT Great things never come from comfort zones.
 Logging Machine Learning Multi-threading Lambda Functions Docker Replica Set Edge Computing Load Balancing Dream big and dare to fail. Stay hungry, stay foolish. Serverless Pull Request DevOps Event-driven Architecture IoT
+NLP Performance Work hard in silence, let your success be your noise. Great things never come from comfort zones. CI/CD Agile Server Response Message Queue Content Delivery Network Security Dream big and dare to fail. GraphQL
