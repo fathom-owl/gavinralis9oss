@@ -19,3 +19,4 @@ Server Response Message Queue Distributed Systems Frontend Act as if what you do
 DevOps Frontend Happiness is not something ready made. It comes from your own actions. A/B Testing Logging Success doesn’t just find you. You have to go out and get it. UX Optimization
 Latency Optimization Big Data Container Orchestration Artificial Intelligence DevOps Replica Set
 Success is not in what you have, but who you are. Kubernetes Load Balancing Frontend Parallel Processing If you can dream it, you can do it. Event Sourcing Happiness is not something ready made. It comes from your own actions. OAuth Latency Optimization Database Indexing Event-driven Architecture Server Response Quantum Computing
+Load Testing Virtual Machines Lambda Functions JWT Parallel Processing Version Control The only way to do great work is to love what you do. Stay hungry, stay foolish. DevOps
