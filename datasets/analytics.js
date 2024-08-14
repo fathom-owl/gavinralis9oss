@@ -13,3 +13,4 @@ Difficult roads often lead to beautiful destinations. Load Testing Database Inde
 Stay hungry, stay foolish. Load Testing Frontend Kafka Docker Zero Downtime Deployment
 Opportunities don't happen. You create them. Event Sourcing Algorithm Data Science Python Happiness is not something ready made. It comes from your own actions. Edge Computing API Sharding Don't be afraid to give up the good to go for the great. Lambda Functions Scalability
 Frontend UX Optimization Virtual Machines If you can dream it, you can do it. Quantum Computing Blockchain Act as if what you do makes a difference. It does.
+CI/CD Containerization Difficult roads often lead to beautiful destinations. A/B Testing Monitoring Firewalls Message Queue OAuth Cache Invalidation I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Dream big and dare to fail. Serverless Data Science
