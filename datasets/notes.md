@@ -18,3 +18,4 @@ Machine Learning Data Pipeline Container Orchestration Opportunities don't happe
 API Code Review Microservices Pull Request Automation Database Indexing Server Response Content Delivery Network Event Sourcing Message Queue Distributed Systems Security I find that the harder I work, the more luck I seem to have. Frontend
 API Gateway Algorithm Blockchain Virtual Machines Distributed Systems Code Review Success is not in what you have, but who you are. Framework If you can dream it, you can do it. Dream big and dare to fail. Content Delivery Network Message Queue Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions.
 Success is not in what you have, but who you are. GraphQL Container Orchestration Artificial Intelligence Load Balancing
+Neural Networks I find that the harder I work, the more luck I seem to have. React Microservices Database Indexing Optimization Distributed Systems Message Queue

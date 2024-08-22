@@ -9,3 +9,4 @@ Framework Difficult roads often lead to beautiful destinations. UX Optimization 
 If you can dream it, you can do it. Great things never come from comfort zones. Data Pipeline Docker Kubernetes
 Cloud DevOps Kubernetes Database Message Queue Dream big and dare to fail. Pull Request Agile Container Orchestration
 Scalability Success doesn’t just find you. You have to go out and get it. Docker Multi-threading DNS Routing Quantum Computing Difficult roads often lead to beautiful destinations. Firewalls Virtual Machines JWT Great things never come from comfort zones.
+Deployment Automation React Difficult roads often lead to beautiful destinations. Optimization Cache Invalidation DevOps
