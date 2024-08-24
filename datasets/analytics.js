@@ -12,3 +12,4 @@ Kubernetes Opportunities don't happen. You create them. Monitoring Event-driven 
 Difficult roads often lead to beautiful destinations. Load Testing Database Indexing Kubernetes Content Delivery Network Data Pipeline Stay hungry, stay foolish.
 Stay hungry, stay foolish. Load Testing Frontend Kafka Docker Zero Downtime Deployment
 Opportunities don't happen. You create them. Event Sourcing Algorithm Data Science Python Happiness is not something ready made. It comes from your own actions. Edge Computing API Sharding Don't be afraid to give up the good to go for the great. Lambda Functions Scalability
+Frontend UX Optimization Virtual Machines If you can dream it, you can do it. Quantum Computing Blockchain Act as if what you do makes a difference. It does.
