@@ -16,3 +16,4 @@ GraphQL Distributed Systems Message Queue Work hard in silence, let your success
 Act as if what you do makes a difference. It does. Cloud Blockchain Difficult roads often lead to beautiful destinations. Docker OAuth Version Control
 GraphQL Monitoring React Data Pipeline Backend
 Server Response Automation Docker Python Machine Learning Do what you love and the money will follow. Event Sourcing UX Optimization
+Containerization Replica Set Python DevOps Sharding Frontend WebSockets Dream big and dare to fail. Code Review Server Response Machine Learning Automation Optimization

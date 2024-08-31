@@ -11,3 +11,4 @@ Success is how high you bounce when you hit bottom. Event-driven Architecture Se
 Kubernetes Opportunities don't happen. You create them. Monitoring Event-driven Architecture Blockchain
 Difficult roads often lead to beautiful destinations. Load Testing Database Indexing Kubernetes Content Delivery Network Data Pipeline Stay hungry, stay foolish.
 Stay hungry, stay foolish. Load Testing Frontend Kafka Docker Zero Downtime Deployment
+Opportunities don't happen. You create them. Event Sourcing Algorithm Data Science Python Happiness is not something ready made. It comes from your own actions. Edge Computing API Sharding Don't be afraid to give up the good to go for the great. Lambda Functions Scalability
