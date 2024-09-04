@@ -19,3 +19,4 @@ Automation Distributed Systems Security Success is not in what you have, but who
 API The only way to do great work is to love what you do. IoT Serverless RabbitMQ Predictive Analytics Distributed Systems Monitoring A/B Testing Sharding Cloud Functions Optimization Big Data GraphQL
 Deployment NLP CI/CD Microservices Act as if what you do makes a difference. It does. DevOps Load Testing Lambda Functions Scalability Firewalls
 Don't be afraid to give up the good to go for the great. Performance Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Data Pipeline Logging
+WebSockets Don't be afraid to give up the good to go for the great. Container Orchestration Multi-threading API Gateway
