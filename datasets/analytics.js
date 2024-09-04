@@ -9,3 +9,4 @@ Don't be afraid to give up the good to go for the great. Difficult roads often l
 Kafka Content Delivery Network Frontend Happiness is not something ready made. It comes from your own actions. Data Pipeline Sharding Edge Computing Optimization Firewalls
 Success is how high you bounce when you hit bottom. Event-driven Architecture Server Response Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it.
 Kubernetes Opportunities don't happen. You create them. Monitoring Event-driven Architecture Blockchain
+Difficult roads often lead to beautiful destinations. Load Testing Database Indexing Kubernetes Content Delivery Network Data Pipeline Stay hungry, stay foolish.
