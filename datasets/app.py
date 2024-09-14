@@ -16,3 +16,4 @@ Big Data Firewalls Data Science Frontend Serverless Backend Latency Optimization
 Docker Success usually comes to those who are too busy to be looking for it. Agile Framework DNS Routing To be the best, you must be able to handle the worst. Optimization Version Control A/B Testing Great things never come from comfort zones. Kafka Virtual Machines React Load Balancing Microservices
 Difficult roads often lead to beautiful destinations. RabbitMQ Docker Kubernetes Multi-threading
 Server Response Message Queue Distributed Systems Frontend Act as if what you do makes a difference. It does. Data Science Replica Set Docker
+DevOps Frontend Happiness is not something ready made. It comes from your own actions. A/B Testing Logging Success doesn’t just find you. You have to go out and get it. UX Optimization
