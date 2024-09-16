@@ -8,3 +8,4 @@ Latency Optimization UX Optimization Firewalls Lambda Functions Performance Do w
 UX Optimization Opportunities don't happen. You create them. Great things never come from comfort zones. Frontend Performance Firewalls Cloud Functions Docker Kubernetes NLP Sharding Artificial Intelligence Pull Request Data Science Scalability
 Frontend Data Science DevOps Framework React Database Content Delivery Network Zero Downtime Deployment Automation CI/CD
 React To be the best, you must be able to handle the worst. OAuth Predictive Analytics Sharding Distributed Systems
+Zero Downtime Deployment Latency Optimization Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Event-driven Architecture
