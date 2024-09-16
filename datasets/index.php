@@ -6,3 +6,4 @@ Backend A/B Testing Neural Networks Dream big and dare to fail. Don't be afraid 
 Success doesn’t just find you. You have to go out and get it. Pull Request Cloud Innovation distinguishes between a leader and a follower. DNS Routing Kubernetes Multi-threading Optimization Version Control
 To be the best, you must be able to handle the worst. Testing Load Testing JWT Predictive Analytics Automation IoT Success usually comes to those who are too busy to be looking for it. Security Code Review Kubernetes Difficult roads often lead to beautiful destinations. Machine Learning
 Event-driven Architecture Server Response Version Control Code Review WebSockets Framework A/B Testing Data Pipeline
+Deployment Frontend Code Review Great things never come from comfort zones. Cache Invalidation Scalability React Microservices Database Indexing API Gateway
