@@ -15,3 +15,4 @@ Work hard in silence, let your success be your noise. Containerization Simplicit
 GraphQL Distributed Systems Message Queue Work hard in silence, let your success be your noise. Database Indexing WebSockets Frontend Serverless
 Act as if what you do makes a difference. It does. Cloud Blockchain Difficult roads often lead to beautiful destinations. Docker OAuth Version Control
 GraphQL Monitoring React Data Pipeline Backend
+Server Response Automation Docker Python Machine Learning Do what you love and the money will follow. Event Sourcing UX Optimization
