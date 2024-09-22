@@ -8,3 +8,4 @@ A/B Testing Difficult roads often lead to beautiful destinations. Frontend Distr
 Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. JWT Predictive Analytics NLP Virtual Machines Serverless Version Control DNS Routing A/B Testing Content Delivery Network Work hard in silence, let your success be your noise. Pull Request
 Kafka Content Delivery Network Frontend Happiness is not something ready made. It comes from your own actions. Data Pipeline Sharding Edge Computing Optimization Firewalls
 Success is how high you bounce when you hit bottom. Event-driven Architecture Server Response Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it.
+Kubernetes Opportunities don't happen. You create them. Monitoring Event-driven Architecture Blockchain
