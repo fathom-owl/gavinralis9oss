@@ -12,3 +12,4 @@ Testing API Logging Multi-threading Monitoring Opportunities don't happen. You c
 Innovation distinguishes between a leader and a follower. NLP JWT Containerization Stay hungry, stay foolish. JavaScript Replica Set Microservices Opportunities don't happen. You create them.
 Cache Invalidation Testing Docker Code Review Quantum Computing
 A/B Testing Automation Kubernetes Load Testing Microservices Multi-threading Latency Optimization API Machine Learning JavaScript WebSockets
+IoT Algorithm Version Control Edge Computing GraphQL Simplicity is the ultimate sophistication. Zero Downtime Deployment
