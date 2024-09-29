@@ -12,3 +12,4 @@ If you can dream it, you can do it. Deployment IoT Sharding GraphQL Latency Opti
 DevOps Monitoring Success doesn’t just find you. You have to go out and get it. WebSockets API Database Indexing Latency Optimization
 Server Response CI/CD To be the best, you must be able to handle the worst. Monitoring Blockchain Difficult roads often lead to beautiful destinations. WebSockets UX Optimization Machine Learning Simplicity is the ultimate sophistication.
 Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Framework I find that the harder I work, the more luck I seem to have. Logging Serverless Cloud
+NLP Load Testing To be the best, you must be able to handle the worst. Kubernetes Load Balancing DNS Routing Predictive Analytics Difficult roads often lead to beautiful destinations. Containerization Automation Kafka Event Sourcing RabbitMQ Pull Request UX Optimization
