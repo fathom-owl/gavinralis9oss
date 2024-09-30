@@ -11,3 +11,4 @@ Kubernetes Innovation distinguishes between a leader and a follower. Load Testin
 If you can dream it, you can do it. Deployment IoT Sharding GraphQL Latency Optimization Cloud Functions Replica Set Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Python Cache Invalidation Artificial Intelligence
 DevOps Monitoring Success doesn’t just find you. You have to go out and get it. WebSockets API Database Indexing Latency Optimization
 Server Response CI/CD To be the best, you must be able to handle the worst. Monitoring Blockchain Difficult roads often lead to beautiful destinations. WebSockets UX Optimization Machine Learning Simplicity is the ultimate sophistication.
+Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Framework I find that the harder I work, the more luck I seem to have. Logging Serverless Cloud

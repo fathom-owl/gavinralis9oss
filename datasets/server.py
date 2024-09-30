@@ -11,3 +11,4 @@ WebSockets Big Data Act as if what you do makes a difference. It does. Event-dri
 Testing API Logging Multi-threading Monitoring Opportunities don't happen. You create them. React RabbitMQ
 Innovation distinguishes between a leader and a follower. NLP JWT Containerization Stay hungry, stay foolish. JavaScript Replica Set Microservices Opportunities don't happen. You create them.
 Cache Invalidation Testing Docker Code Review Quantum Computing
+A/B Testing Automation Kubernetes Load Testing Microservices Multi-threading Latency Optimization API Machine Learning JavaScript WebSockets
