@@ -13,3 +13,4 @@ Firewalls Content Delivery Network Edge Computing Testing To be the best, you mu
 Success doesn’t just find you. You have to go out and get it. Testing NLP Distributed Systems Big Data Dream big and dare to fail. Work hard in silence, let your success be your noise. Deployment A/B Testing Neural Networks Scalability RabbitMQ UX Optimization JavaScript API
 Work hard in silence, let your success be your noise. Containerization Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. React Agile Cache Invalidation Great things never come from comfort zones. Distributed Systems Edge Computing Predictive Analytics Server Response
 GraphQL Distributed Systems Message Queue Work hard in silence, let your success be your noise. Database Indexing WebSockets Frontend Serverless
+Act as if what you do makes a difference. It does. Cloud Blockchain Difficult roads often lead to beautiful destinations. Docker OAuth Version Control
