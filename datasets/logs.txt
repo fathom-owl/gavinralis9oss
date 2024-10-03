@@ -17,3 +17,4 @@ Stay hungry, stay foolish. Scalability Artificial Intelligence Performance Distr
 Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Virtual Machines If you can dream it, you can do it. Event Sourcing Predictive Analytics Edge Computing Firewalls Agile Parallel Processing Data Pipeline Automation Deployment
 Automation Distributed Systems Security Success is not in what you have, but who you are. Predictive Analytics Version Control Data Science
 API The only way to do great work is to love what you do. IoT Serverless RabbitMQ Predictive Analytics Distributed Systems Monitoring A/B Testing Sharding Cloud Functions Optimization Big Data GraphQL
+Deployment NLP CI/CD Microservices Act as if what you do makes a difference. It does. DevOps Load Testing Lambda Functions Scalability Firewalls
