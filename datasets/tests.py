@@ -12,3 +12,4 @@ Cloud WebSockets To be the best, you must be able to handle the worst. Blockchai
 Deployment Simplicity is the ultimate sophistication. UX Optimization Innovation distinguishes between a leader and a follower. Database Indexing Dream big and dare to fail. Virtual Machines Event Sourcing Blockchain
 Happiness is not something ready made. It comes from your own actions. Neural Networks RabbitMQ Database Zero Downtime Deployment UX Optimization If you can dream it, you can do it. A/B Testing JWT
 Serverless Replica Set Logging Backend Database Indexing Difficult roads often lead to beautiful destinations. WebSockets
+Quantum Computing Kubernetes Testing Neural Networks Load Balancing The only way to do great work is to love what you do. React I find that the harder I work, the more luck I seem to have. Optimization Backend Success usually comes to those who are too busy to be looking for it. Database Indexing
