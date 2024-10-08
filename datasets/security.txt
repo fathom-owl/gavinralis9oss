@@ -6,3 +6,4 @@ Message Queue Quantum Computing Framework Success is not in what you have, but w
 Machine Learning Kafka Monitoring Difficult roads often lead to beautiful destinations. Firewalls Scalability React I find that the harder I work, the more luck I seem to have. Database Multi-threading Deployment Event-driven Architecture UX Optimization Version Control
 Serverless Message Queue UX Optimization Simplicity is the ultimate sophistication. Backend Container Orchestration Server Response To be the best, you must be able to handle the worst. Logging Event-driven Architecture RabbitMQ
 Replica Set Load Testing Backend Predictive Analytics Serverless Testing Edge Computing A/B Testing
+CI/CD Opportunities don't happen. You create them. Firewalls Event Sourcing Cloud Functions DNS Routing Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Machine Learning The only way to do great work is to love what you do.
