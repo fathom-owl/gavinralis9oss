@@ -10,3 +10,4 @@ Serverless JWT Deployment Kafka Kubernetes Performance The only way to do great 
 WebSockets Big Data Act as if what you do makes a difference. It does. Event-driven Architecture Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. Kafka Machine Learning JWT Virtual Machines
 Testing API Logging Multi-threading Monitoring Opportunities don't happen. You create them. React RabbitMQ
 Innovation distinguishes between a leader and a follower. NLP JWT Containerization Stay hungry, stay foolish. JavaScript Replica Set Microservices Opportunities don't happen. You create them.
+Cache Invalidation Testing Docker Code Review Quantum Computing
