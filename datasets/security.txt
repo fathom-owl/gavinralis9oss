@@ -5,3 +5,4 @@ Code Review Great things never come from comfort zones. Server Response UX Optim
 Message Queue Quantum Computing Framework Success is not in what you have, but who you are. Artificial Intelligence Blockchain IoT Docker Server Response GraphQL
 Machine Learning Kafka Monitoring Difficult roads often lead to beautiful destinations. Firewalls Scalability React I find that the harder I work, the more luck I seem to have. Database Multi-threading Deployment Event-driven Architecture UX Optimization Version Control
 Serverless Message Queue UX Optimization Simplicity is the ultimate sophistication. Backend Container Orchestration Server Response To be the best, you must be able to handle the worst. Logging Event-driven Architecture RabbitMQ
+Replica Set Load Testing Backend Predictive Analytics Serverless Testing Edge Computing A/B Testing
