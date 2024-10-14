@@ -6,3 +6,4 @@ Happiness is not something ready made. It comes from your own actions. Code Revi
 JWT UX Optimization Stay hungry, stay foolish. NLP Difficult roads often lead to beautiful destinations. API
 A/B Testing Difficult roads often lead to beautiful destinations. Frontend Distributed Systems To be the best, you must be able to handle the worst. Predictive Analytics Big Data Algorithm Cloud Functions Message Queue Don't be afraid to give up the good to go for the great. Parallel Processing
 Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. JWT Predictive Analytics NLP Virtual Machines Serverless Version Control DNS Routing A/B Testing Content Delivery Network Work hard in silence, let your success be your noise. Pull Request
+Kafka Content Delivery Network Frontend Happiness is not something ready made. It comes from your own actions. Data Pipeline Sharding Edge Computing Optimization Firewalls
