@@ -7,3 +7,4 @@ Deployment Monitoring Backend JWT Edge Computing Replica Set Work hard in silenc
 Data Pipeline Neural Networks Agile Happiness is not something ready made. It comes from your own actions. Framework Event-driven Architecture Machine Learning JavaScript Docker
 Predictive Analytics Monitoring Cloud Big Data NLP Work hard in silence, let your success be your noise. Testing Version Control Act as if what you do makes a difference. It does.
 Frontend Cloud Functions Docker Latency Optimization WebSockets Predictive Analytics Load Balancing Containerization Artificial Intelligence DNS Routing
+Agile Database Indexing Database UX Optimization IoT Great things never come from comfort zones.
