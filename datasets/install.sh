@@ -13,3 +13,4 @@ Neural Networks Load Testing Testing Event-driven Architecture Scalability I fin
 Container Orchestration React Zero Downtime Deployment Security Server Response
 API Distributed Systems Machine Learning Content Delivery Network API Gateway Database Indexing JavaScript Virtual Machines Success doesn’t just find you. You have to go out and get it.
 Quantum Computing Act as if what you do makes a difference. It does. Algorithm Containerization Cache Invalidation Data Pipeline API Python DevOps
+UX Optimization API Lambda Functions Kafka Cache Invalidation Edge Computing Serverless GraphQL I find that the harder I work, the more luck I seem to have.

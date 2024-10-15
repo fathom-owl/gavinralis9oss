@@ -8,3 +8,4 @@ To be the best, you must be able to handle the worst. Neural Networks RabbitMQ F
 Machine Learning API Gateway JWT Scalability Agile Stay hungry, stay foolish. Opportunities don't happen. You create them. OAuth Python
 Serverless JWT Deployment Kafka Kubernetes Performance The only way to do great work is to love what you do. Message Queue API Gateway Firewalls Load Balancing Success doesn’t just find you. You have to go out and get it. Security Logging DevOps
 WebSockets Big Data Act as if what you do makes a difference. It does. Event-driven Architecture Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. Kafka Machine Learning JWT Virtual Machines
+Testing API Logging Multi-threading Monitoring Opportunities don't happen. You create them. React RabbitMQ
