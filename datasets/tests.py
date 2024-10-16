@@ -10,3 +10,4 @@ Agile Blockchain Backend Containerization Sharding WebSockets Lambda Functions D
 A/B Testing IoT Happiness is not something ready made. It comes from your own actions. Algorithm I find that the harder I work, the more luck I seem to have. Backend UX Optimization
 Cloud WebSockets To be the best, you must be able to handle the worst. Blockchain Load Testing Version Control Optimization Predictive Analytics Distributed Systems Agile Virtual Machines Data Science Latency Optimization Logging Code Review
 Deployment Simplicity is the ultimate sophistication. UX Optimization Innovation distinguishes between a leader and a follower. Database Indexing Dream big and dare to fail. Virtual Machines Event Sourcing Blockchain
+Happiness is not something ready made. It comes from your own actions. Neural Networks RabbitMQ Database Zero Downtime Deployment UX Optimization If you can dream it, you can do it. A/B Testing JWT
