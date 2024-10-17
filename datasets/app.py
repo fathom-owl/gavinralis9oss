@@ -13,3 +13,4 @@ Event Sourcing Testing Latency Optimization Deployment Neural Networks
 Edge Computing Agile JavaScript API Load Balancing Cloud Functions Deployment Blockchain Server Response Message Queue Kafka Firewalls API Gateway
 IoT NLP Difficult roads often lead to beautiful destinations. DNS Routing Simplicity is the ultimate sophistication. JavaScript RabbitMQ Sharding Framework Scalability Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Python Quantum Computing Automation
 Big Data Firewalls Data Science Frontend Serverless Backend Latency Optimization
+Docker Success usually comes to those who are too busy to be looking for it. Agile Framework DNS Routing To be the best, you must be able to handle the worst. Optimization Version Control A/B Testing Great things never come from comfort zones. Kafka Virtual Machines React Load Balancing Microservices
