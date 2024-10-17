@@ -6,3 +6,4 @@ Success is how high you bounce when you hit bottom. GraphQL Virtual Machines Dis
 Python Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. React Blockchain Pull Request Load Testing Monitoring
 Latency Optimization UX Optimization Firewalls Lambda Functions Performance Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Scalability Artificial Intelligence API Success is how high you bounce when you hit bottom. Cache Invalidation The only way to do great work is to love what you do.
 UX Optimization Opportunities don't happen. You create them. Great things never come from comfort zones. Frontend Performance Firewalls Cloud Functions Docker Kubernetes NLP Sharding Artificial Intelligence Pull Request Data Science Scalability
+Frontend Data Science DevOps Framework React Database Content Delivery Network Zero Downtime Deployment Automation CI/CD
