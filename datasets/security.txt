@@ -2,3 +2,4 @@ Agile Code Review I find that the harder I work, the more luck I seem to have. M
 UX Optimization To be the best, you must be able to handle the worst. Big Data Kubernetes Sharding Predictive Analytics Serverless Do what you love and the money will follow. Data Pipeline
 Great things never come from comfort zones. Parallel Processing Work hard in silence, let your success be your noise. Docker Distributed Systems Containerization Performance Big Data
 Code Review Great things never come from comfort zones. Server Response UX Optimization Stay hungry, stay foolish. Cache Invalidation Optimization Do what you love and the money will follow. RabbitMQ Success is how high you bounce when you hit bottom. Database Act as if what you do makes a difference. It does. Container Orchestration Firewalls
+Message Queue Quantum Computing Framework Success is not in what you have, but who you are. Artificial Intelligence Blockchain IoT Docker Server Response GraphQL
