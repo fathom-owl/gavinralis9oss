@@ -6,3 +6,4 @@ Distributed Systems Event-driven Architecture Stay hungry, stay foolish. UX Opti
 Great things never come from comfort zones. Replica Set Server Response Content Delivery Network Big Data A/B Testing NLP
 Cloud Functions Algorithm Distributed Systems Cache Invalidation NLP Data Science Framework Parallel Processing Data Pipeline RabbitMQ Don't be afraid to give up the good to go for the great. Agile
 Framework Difficult roads often lead to beautiful destinations. UX Optimization Agile Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom.
+If you can dream it, you can do it. Great things never come from comfort zones. Data Pipeline Docker Kubernetes
