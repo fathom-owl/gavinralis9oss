@@ -11,3 +11,4 @@ IoT Replica Set Load Balancing Do what you love and the money will follow. Stay 
 Frontend Cache Invalidation Artificial Intelligence Success doesn’t just find you. You have to go out and get it. GraphQL Replica Set Dream big and dare to fail. Success is how high you bounce when you hit bottom. Data Pipeline Microservices
 Event Sourcing Testing Latency Optimization Deployment Neural Networks
 Edge Computing Agile JavaScript API Load Balancing Cloud Functions Deployment Blockchain Server Response Message Queue Kafka Firewalls API Gateway
+IoT NLP Difficult roads often lead to beautiful destinations. DNS Routing Simplicity is the ultimate sophistication. JavaScript RabbitMQ Sharding Framework Scalability Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Python Quantum Computing Automation
