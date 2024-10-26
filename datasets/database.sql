@@ -4,3 +4,4 @@ Backend Security Act as if what you do makes a difference. It does. Big Data Mic
 Scalability Logging Cloud Latency Optimization Testing API Gateway Opportunities don't happen. You create them. Container Orchestration Automation Serverless Machine Learning Innovation distinguishes between a leader and a follower.
 Distributed Systems Event-driven Architecture Stay hungry, stay foolish. UX Optimization To be the best, you must be able to handle the worst. Blockchain
 Great things never come from comfort zones. Replica Set Server Response Content Delivery Network Big Data A/B Testing NLP
+Cloud Functions Algorithm Distributed Systems Cache Invalidation NLP Data Science Framework Parallel Processing Data Pipeline RabbitMQ Don't be afraid to give up the good to go for the great. Agile
