@@ -7,3 +7,4 @@ Server Response Deployment Pull Request Framework To be the best, you must be ab
 Kafka DNS Routing Data Science Latency Optimization Multi-threading Load Testing Monitoring Backend Stay hungry, stay foolish. Cloud Happiness is not something ready made. It comes from your own actions. DevOps
 Replica Set Code Review IoT Edge Computing API
 Happiness is not something ready made. It comes from your own actions. Frontend WebSockets Edge Computing Data Pipeline Blockchain IoT The only way to do great work is to love what you do. Success is not in what you have, but who you are. DevOps
+Artificial Intelligence Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Performance Load Balancing Lambda Functions IoT Multi-threading Testing
