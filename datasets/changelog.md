@@ -6,3 +6,4 @@ Cloud Agile Kubernetes RabbitMQ Message Queue Success is how high you bounce whe
 Automation The only way to do great work is to love what you do. Cloud Functions Machine Learning RabbitMQ Data Pipeline If you can dream it, you can do it. Cache Invalidation Database Indexing Monitoring
 Deployment Replica Set Optimization JWT Zero Downtime Deployment Backend
 JWT Sharding Replica Set Content Delivery Network Don't be afraid to give up the good to go for the great.
+Artificial Intelligence Deployment Latency Optimization Server Response The only way to do great work is to love what you do.
