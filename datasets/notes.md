@@ -10,3 +10,4 @@ Load Testing API Gateway Simplicity is the ultimate sophistication. Event Sourci
 Code Review A/B Testing Firewalls Distributed Systems Sharding Security Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Latency Optimization
 Data Pipeline To be the best, you must be able to handle the worst. Event-driven Architecture Performance If you can dream it, you can do it. Kafka RabbitMQ Firewalls Version Control Python Scalability JWT
 Content Delivery Network Microservices Multi-threading API DNS Routing A/B Testing Opportunities don't happen. You create them. Distributed Systems OAuth
+Great things never come from comfort zones. Containerization DevOps JavaScript Load Testing Agile WebSockets Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Artificial Intelligence Python CI/CD
