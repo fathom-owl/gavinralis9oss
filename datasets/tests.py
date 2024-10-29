@@ -8,3 +8,4 @@ JWT RabbitMQ Dream big and dare to fail. Replica Set To be the best, you must be
 Cloud Event-driven Architecture NLP A/B Testing Logging To be the best, you must be able to handle the worst. Parallel Processing Success is not in what you have, but who you are. Sharding Framework If you can dream it, you can do it.
 Agile Blockchain Backend Containerization Sharding WebSockets Lambda Functions Don't be afraid to give up the good to go for the great. Microservices Machine Learning
 A/B Testing IoT Happiness is not something ready made. It comes from your own actions. Algorithm I find that the harder I work, the more luck I seem to have. Backend UX Optimization
+Cloud WebSockets To be the best, you must be able to handle the worst. Blockchain Load Testing Version Control Optimization Predictive Analytics Distributed Systems Agile Virtual Machines Data Science Latency Optimization Logging Code Review
