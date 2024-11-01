@@ -10,3 +10,4 @@ Data Science Agile Opportunities don't happen. You create them. Server Response 
 IoT Replica Set Load Balancing Do what you love and the money will follow. Stay hungry, stay foolish. Automation Multi-threading Kubernetes Zero Downtime Deployment Success is how high you bounce when you hit bottom. NLP Docker Code Review Artificial Intelligence
 Frontend Cache Invalidation Artificial Intelligence Success doesn’t just find you. You have to go out and get it. GraphQL Replica Set Dream big and dare to fail. Success is how high you bounce when you hit bottom. Data Pipeline Microservices
 Event Sourcing Testing Latency Optimization Deployment Neural Networks
+Edge Computing Agile JavaScript API Load Balancing Cloud Functions Deployment Blockchain Server Response Message Queue Kafka Firewalls API Gateway

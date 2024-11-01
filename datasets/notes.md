@@ -9,3 +9,4 @@ To be the best, you must be able to handle the worst. Database Indexing Performa
 Load Testing API Gateway Simplicity is the ultimate sophistication. Event Sourcing Don't be afraid to give up the good to go for the great. Cloud Dream big and dare to fail. Agile Success is not in what you have, but who you are. Deployment Blockchain JavaScript Artificial Intelligence
 Code Review A/B Testing Firewalls Distributed Systems Sharding Security Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Latency Optimization
 Data Pipeline To be the best, you must be able to handle the worst. Event-driven Architecture Performance If you can dream it, you can do it. Kafka RabbitMQ Firewalls Version Control Python Scalability JWT
+Content Delivery Network Microservices Multi-threading API DNS Routing A/B Testing Opportunities don't happen. You create them. Distributed Systems OAuth
