@@ -6,3 +6,4 @@ GraphQL Database Indexing Don't be afraid to give up the good to go for the grea
 Server Response Deployment Pull Request Framework To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Zero Downtime Deployment Multi-threading The only way to do great work is to love what you do. Cloud Functions
 Kafka DNS Routing Data Science Latency Optimization Multi-threading Load Testing Monitoring Backend Stay hungry, stay foolish. Cloud Happiness is not something ready made. It comes from your own actions. DevOps
 Replica Set Code Review IoT Edge Computing API
+Happiness is not something ready made. It comes from your own actions. Frontend WebSockets Edge Computing Data Pipeline Blockchain IoT The only way to do great work is to love what you do. Success is not in what you have, but who you are. DevOps
