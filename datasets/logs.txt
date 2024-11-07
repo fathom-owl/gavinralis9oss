@@ -8,3 +8,4 @@ Automation GraphQL Logging If you can dream it, you can do it. Success doesn’t j
 Cache Invalidation Distributed Systems Blockchain Agile Deployment OAuth JWT React Monitoring Multi-threading Server Response
 DevOps Pull Request Event Sourcing Docker OAuth Testing Container Orchestration Firewalls Cache Invalidation Quantum Computing Scalability Success is how high you bounce when you hit bottom. Code Review WebSockets
 Container Orchestration Scalability Distributed Systems Microservices Containerization Sharding JWT Performance Firewalls Automation Agile OAuth Neural Networks Success is not in what you have, but who you are.
+API Neural Networks React API Gateway Dream big and dare to fail. Edge Computing Act as if what you do makes a difference. It does. Optimization IoT
