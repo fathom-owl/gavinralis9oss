@@ -9,3 +9,4 @@ Success usually comes to those who are too busy to be looking for it. Automation
 Server Response I find that the harder I work, the more luck I seem to have. Neural Networks Big Data Event-driven Architecture Quantum Computing Event Sourcing Cloud Edge Computing Cloud Functions Security Optimization Scalability Algorithm Monitoring
 Database Indexing DevOps Container Orchestration Lambda Functions Event-driven Architecture
 Success is not in what you have, but who you are. Zero Downtime Deployment Cache Invalidation API Difficult roads often lead to beautiful destinations. Algorithm Data Science Container Orchestration Pull Request Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Load Testing RabbitMQ IoT
+Edge Computing Microservices Kafka React Multi-threading Zero Downtime Deployment Code Review Blockchain
