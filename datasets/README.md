@@ -7,3 +7,4 @@ Multi-threading Dream big and dare to fail. Latency Optimization Message Queue Z
 Artificial Intelligence A/B Testing UX Optimization Frontend Do what you love and the money will follow.
 Microservices Testing NLP Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Monitoring A/B Testing Performance Security JWT
 Success usually comes to those who are too busy to be looking for it. Cloud I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Logging Neural Networks Lambda Functions Latency Optimization UX Optimization Event-driven Architecture
+Big Data DNS Routing Scalability Optimization IoT Frontend Difficult roads often lead to beautiful destinations. Serverless DevOps Version Control Replica Set Database Indexing API Gateway
