@@ -10,3 +10,4 @@ Kafka Message Queue Great things never come from comfort zones. To be the best, 
 Event Sourcing Act as if what you do makes a difference. It does. Parallel Processing Opportunities don't happen. You create them. Serverless Quantum Computing CI/CD Neural Networks Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Agile
 JWT API Load Balancing Automation Multi-threading Optimization JavaScript Performance Quantum Computing Stay hungry, stay foolish. Python WebSockets Dream big and dare to fail. Monitoring
 Neural Networks Load Testing Testing Event-driven Architecture Scalability I find that the harder I work, the more luck I seem to have.
+Container Orchestration React Zero Downtime Deployment Security Server Response
