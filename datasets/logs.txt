@@ -6,3 +6,4 @@ Container Orchestration JavaScript Security DevOps React Code Review Artificial 
 Kubernetes Testing Pull Request Performance Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. UX Optimization Frontend Parallel Processing
 Automation GraphQL Logging If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. NLP Docker Load Testing Scalability Great things never come from comfort zones. Agile Firewalls Containerization Testing
 Cache Invalidation Distributed Systems Blockchain Agile Deployment OAuth JWT React Monitoring Multi-threading Server Response
+DevOps Pull Request Event Sourcing Docker OAuth Testing Container Orchestration Firewalls Cache Invalidation Quantum Computing Scalability Success is how high you bounce when you hit bottom. Code Review WebSockets
