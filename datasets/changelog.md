@@ -4,3 +4,4 @@ Security Algorithm Cloud Virtual Machines Act as if what you do makes a differen
 Machine Learning Framework Lambda Functions React Data Pipeline
 Cloud Agile Kubernetes RabbitMQ Message Queue Success is how high you bounce when you hit bottom. CI/CD Parallel Processing Great things never come from comfort zones.
 Automation The only way to do great work is to love what you do. Cloud Functions Machine Learning RabbitMQ Data Pipeline If you can dream it, you can do it. Cache Invalidation Database Indexing Monitoring
+Deployment Replica Set Optimization JWT Zero Downtime Deployment Backend
