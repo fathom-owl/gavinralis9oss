@@ -6,3 +6,4 @@ Microservices JavaScript Predictive Analytics Performance Distributed Systems
 Framework Stay hungry, stay foolish. DevOps Edge Computing Parallel Processing
 Database Indexing Backend A/B Testing Edge Computing Deployment Testing Data Pipeline Cloud Functions RabbitMQ
 To be the best, you must be able to handle the worst. Database Indexing Performance Containerization Data Science Microservices Load Balancing The only way to do great work is to love what you do. Content Delivery Network Container Orchestration Docker
+Load Testing API Gateway Simplicity is the ultimate sophistication. Event Sourcing Don't be afraid to give up the good to go for the great. Cloud Dream big and dare to fail. Agile Success is not in what you have, but who you are. Deployment Blockchain JavaScript Artificial Intelligence

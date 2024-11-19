@@ -6,3 +6,4 @@ Neural Networks Cache Invalidation Artificial Intelligence Predictive Analytics 
 Deployment Monitoring Backend JWT Edge Computing Replica Set Work hard in silence, let your success be your noise. Logging I find that the harder I work, the more luck I seem to have. Load Testing Multi-threading Python
 Data Pipeline Neural Networks Agile Happiness is not something ready made. It comes from your own actions. Framework Event-driven Architecture Machine Learning JavaScript Docker
 Predictive Analytics Monitoring Cloud Big Data NLP Work hard in silence, let your success be your noise. Testing Version Control Act as if what you do makes a difference. It does.
+Frontend Cloud Functions Docker Latency Optimization WebSockets Predictive Analytics Load Balancing Containerization Artificial Intelligence DNS Routing
