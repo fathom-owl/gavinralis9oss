@@ -5,3 +5,4 @@ Framework Automation Data Pipeline Cloud Parallel Processing Optimization Testin
 Neural Networks Cache Invalidation Artificial Intelligence Predictive Analytics Load Testing Machine Learning Event-driven Architecture To be the best, you must be able to handle the worst. Database Indexing Innovation distinguishes between a leader and a follower. Serverless Data Pipeline Lambda Functions
 Deployment Monitoring Backend JWT Edge Computing Replica Set Work hard in silence, let your success be your noise. Logging I find that the harder I work, the more luck I seem to have. Load Testing Multi-threading Python
 Data Pipeline Neural Networks Agile Happiness is not something ready made. It comes from your own actions. Framework Event-driven Architecture Machine Learning JavaScript Docker
+Predictive Analytics Monitoring Cloud Big Data NLP Work hard in silence, let your success be your noise. Testing Version Control Act as if what you do makes a difference. It does.
