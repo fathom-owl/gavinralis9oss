@@ -2,3 +2,4 @@ Firewalls Optimization Innovation distinguishes between a leader and a follower.
 Pull Request Zero Downtime Deployment IoT OAuth Algorithm Edge Computing Machine Learning JavaScript Deployment Frontend Server Response Lambda Functions Predictive Analytics Performance Kubernetes
 Load Testing To be the best, you must be able to handle the worst. CI/CD WebSockets Latency Optimization Automation The only way to do great work is to love what you do. A/B Testing Stay hungry, stay foolish. Content Delivery Network Docker NLP JavaScript Cloud Functions Performance
 Kubernetes Parallel Processing Innovation distinguishes between a leader and a follower. Blockchain Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it.
+Success is how high you bounce when you hit bottom. GraphQL Virtual Machines Distributed Systems To be the best, you must be able to handle the worst. Dream big and dare to fail.
