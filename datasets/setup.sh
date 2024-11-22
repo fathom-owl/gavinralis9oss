@@ -4,3 +4,4 @@ Server Response Event-driven Architecture Load Balancing Kubernetes Code Review 
 Monitoring Data Science Big Data Performance A/B Testing Cloud Database Indexing Kafka The only way to do great work is to love what you do.
 GraphQL Database Indexing Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. RabbitMQ Do what you love and the money will follow. API Gateway Edge Computing Deployment
 Server Response Deployment Pull Request Framework To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Zero Downtime Deployment Multi-threading The only way to do great work is to love what you do. Cloud Functions
+Kafka DNS Routing Data Science Latency Optimization Multi-threading Load Testing Monitoring Backend Stay hungry, stay foolish. Cloud Happiness is not something ready made. It comes from your own actions. DevOps
