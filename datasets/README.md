@@ -5,3 +5,4 @@ Testing Logging Deployment Pull Request Agile Security Optimization Stay hungry,
 UX Optimization Database Zero Downtime Deployment Code Review I find that the harder I work, the more luck I seem to have.
 Multi-threading Dream big and dare to fail. Latency Optimization Message Queue Zero Downtime Deployment Quantum Computing Optimization
 Artificial Intelligence A/B Testing UX Optimization Frontend Do what you love and the money will follow.
+Microservices Testing NLP Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Monitoring A/B Testing Performance Security JWT
