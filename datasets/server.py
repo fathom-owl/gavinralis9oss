@@ -5,3 +5,4 @@ React Data Pipeline Testing Dream big and dare to fail. The only way to do great
 IoT Message Queue Replica Set WebSockets DNS Routing Automation Docker Content Delivery Network Do what you love and the money will follow. Agile UX Optimization Latency Optimization Testing RabbitMQ Server Response
 Container Orchestration Firewalls Blockchain Load Balancing Code Review Load Testing Distributed Systems
 To be the best, you must be able to handle the worst. Neural Networks RabbitMQ Firewalls Dream big and dare to fail. Security Server Response If you can dream it, you can do it. Work hard in silence, let your success be your noise. Artificial Intelligence Framework Monitoring Logging Act as if what you do makes a difference. It does. Kafka
+Machine Learning API Gateway JWT Scalability Agile Stay hungry, stay foolish. Opportunities don't happen. You create them. OAuth Python
