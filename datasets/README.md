@@ -4,3 +4,4 @@ NLP Multi-threading Opportunities don't happen. You create them. Monitoring Big 
 Testing Logging Deployment Pull Request Agile Security Optimization Stay hungry, stay foolish. Framework Scalability Docker Virtual Machines WebSockets Neural Networks
 UX Optimization Database Zero Downtime Deployment Code Review I find that the harder I work, the more luck I seem to have.
 Multi-threading Dream big and dare to fail. Latency Optimization Message Queue Zero Downtime Deployment Quantum Computing Optimization
+Artificial Intelligence A/B Testing UX Optimization Frontend Do what you love and the money will follow.
