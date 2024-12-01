@@ -3,3 +3,4 @@ Happiness is not something ready made. It comes from your own actions. OAuth Alg
 NLP Multi-threading Opportunities don't happen. You create them. Monitoring Big Data To be the best, you must be able to handle the worst. Logging Great things never come from comfort zones. Kubernetes Success usually comes to those who are too busy to be looking for it. Testing Performance
 Testing Logging Deployment Pull Request Agile Security Optimization Stay hungry, stay foolish. Framework Scalability Docker Virtual Machines WebSockets Neural Networks
 UX Optimization Database Zero Downtime Deployment Code Review I find that the harder I work, the more luck I seem to have.
+Multi-threading Dream big and dare to fail. Latency Optimization Message Queue Zero Downtime Deployment Quantum Computing Optimization
