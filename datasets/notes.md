@@ -5,3 +5,4 @@ Act as if what you do makes a difference. It does. Data Science Container Orches
 Microservices JavaScript Predictive Analytics Performance Distributed Systems
 Framework Stay hungry, stay foolish. DevOps Edge Computing Parallel Processing
 Database Indexing Backend A/B Testing Edge Computing Deployment Testing Data Pipeline Cloud Functions RabbitMQ
+To be the best, you must be able to handle the worst. Database Indexing Performance Containerization Data Science Microservices Load Balancing The only way to do great work is to love what you do. Content Delivery Network Container Orchestration Docker
