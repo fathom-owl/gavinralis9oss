@@ -4,3 +4,4 @@ Cache Invalidation Predictive Analytics OAuth Optimization Serverless A/B Testin
 Act as if what you do makes a difference. It does. Data Science Container Orchestration Frontend Testing JWT Parallel Processing Security Predictive Analytics Content Delivery Network
 Microservices JavaScript Predictive Analytics Performance Distributed Systems
 Framework Stay hungry, stay foolish. DevOps Edge Computing Parallel Processing
+Database Indexing Backend A/B Testing Edge Computing Deployment Testing Data Pipeline Cloud Functions RabbitMQ
