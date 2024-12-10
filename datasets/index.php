@@ -1,3 +1,4 @@
 Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. A/B Testing Cloud Functions Load Balancing
 Difficult roads often lead to beautiful destinations. Security UX Optimization Opportunities don't happen. You create them. Docker Firewalls Performance Success usually comes to those who are too busy to be looking for it. Cache Invalidation Python Event-driven Architecture Scalability
 Success is not in what you have, but who you are. Security Work hard in silence, let your success be your noise. Latency Optimization Data Pipeline Zero Downtime Deployment Predictive Analytics Artificial Intelligence Parallel Processing Kafka
+Python Backend OAuth A/B Testing If you can dream it, you can do it. Performance Load Balancing The only way to do great work is to love what you do. Zero Downtime Deployment Containerization Framework
