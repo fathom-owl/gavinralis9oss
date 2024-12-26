@@ -4,3 +4,4 @@ Success usually comes to those who are too busy to be looking for it. A/B Testin
 Success is not in what you have, but who you are. Message Queue Blockchain Success usually comes to those who are too busy to be looking for it. Load Testing Success is how high you bounce when you hit bottom. Frontend
 Security Version Control Server Response If you can dream it, you can do it. IoT Event-driven Architecture Work hard in silence, let your success be your noise. Firewalls Frontend A/B Testing Microservices JWT
 Logging Cache Invalidation Distributed Systems Database Indexing Innovation distinguishes between a leader and a follower. Microservices Opportunities don't happen. You create them. NLP Success is not in what you have, but who you are. Replica Set
+Don't be afraid to give up the good to go for the great. Container Orchestration Firewalls Great things never come from comfort zones. Parallel Processing Event-driven Architecture Docker
