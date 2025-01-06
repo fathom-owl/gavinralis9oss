@@ -2,3 +2,4 @@ Database Parallel Processing React Performance Don't be afraid to give up the go
 Happiness is not something ready made. It comes from your own actions. Distributed Systems Serverless Great things never come from comfort zones. Monitoring Version Control JWT Virtual Machines Machine Learning Containerization DNS Routing
 Success usually comes to those who are too busy to be looking for it. A/B Testing Simplicity is the ultimate sophistication. Parallel Processing Do what you love and the money will follow. Performance Pull Request
 Success is not in what you have, but who you are. Message Queue Blockchain Success usually comes to those who are too busy to be looking for it. Load Testing Success is how high you bounce when you hit bottom. Frontend
+Security Version Control Server Response If you can dream it, you can do it. IoT Event-driven Architecture Work hard in silence, let your success be your noise. Firewalls Frontend A/B Testing Microservices JWT
