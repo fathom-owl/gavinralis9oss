@@ -2,3 +2,4 @@ Success doesn’t just find you. You have to go out and get it. DevOps A/B Testing
 Success is not in what you have, but who you are. Monitoring Multi-threading Automation CI/CD OAuth Sharding
 Cache Invalidation Predictive Analytics OAuth Optimization Serverless A/B Testing Lambda Functions Virtual Machines JavaScript Content Delivery Network Artificial Intelligence
 Act as if what you do makes a difference. It does. Data Science Container Orchestration Frontend Testing JWT Parallel Processing Security Predictive Analytics Content Delivery Network
+Microservices JavaScript Predictive Analytics Performance Distributed Systems
