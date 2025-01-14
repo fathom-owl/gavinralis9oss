@@ -1,2 +1,3 @@
 Firewalls Optimization Innovation distinguishes between a leader and a follower. Frontend Event-driven Architecture React JavaScript Lambda Functions DNS Routing Data Pipeline Machine Learning DevOps
 Pull Request Zero Downtime Deployment IoT OAuth Algorithm Edge Computing Machine Learning JavaScript Deployment Frontend Server Response Lambda Functions Predictive Analytics Performance Kubernetes
+Load Testing To be the best, you must be able to handle the worst. CI/CD WebSockets Latency Optimization Automation The only way to do great work is to love what you do. A/B Testing Stay hungry, stay foolish. Content Delivery Network Docker NLP JavaScript Cloud Functions Performance
