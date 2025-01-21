@@ -1,3 +1,4 @@
 Success doesn’t just find you. You have to go out and get it. DevOps A/B Testing CI/CD Distributed Systems Simplicity is the ultimate sophistication. Load Balancing Opportunities don't happen. You create them. Lambda Functions Frontend I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Logging
 Success is not in what you have, but who you are. Monitoring Multi-threading Automation CI/CD OAuth Sharding
 Cache Invalidation Predictive Analytics OAuth Optimization Serverless A/B Testing Lambda Functions Virtual Machines JavaScript Content Delivery Network Artificial Intelligence
+Act as if what you do makes a difference. It does. Data Science Container Orchestration Frontend Testing JWT Parallel Processing Security Predictive Analytics Content Delivery Network

@@ -2,3 +2,4 @@ Content Delivery Network Framework JavaScript Docker Kubernetes Version Control 
 Agile Artificial Intelligence I find that the harder I work, the more luck I seem to have. DNS Routing Automation Container Orchestration IoT Pull Request If you can dream it, you can do it. Monitoring
 Server Response Event-driven Architecture Load Balancing Kubernetes Code Review API Message Queue Virtual Machines NLP Containerization Edge Computing Parallel Processing Backend
 Monitoring Data Science Big Data Performance A/B Testing Cloud Database Indexing Kafka The only way to do great work is to love what you do.
+GraphQL Database Indexing Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. RabbitMQ Do what you love and the money will follow. API Gateway Edge Computing Deployment
