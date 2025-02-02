@@ -1,1 +1,2 @@
 Database Parallel Processing React Performance Don't be afraid to give up the good to go for the great. RabbitMQ Agile JavaScript Containerization Logging DNS Routing
+Happiness is not something ready made. It comes from your own actions. Distributed Systems Serverless Great things never come from comfort zones. Monitoring Version Control JWT Virtual Machines Machine Learning Containerization DNS Routing
