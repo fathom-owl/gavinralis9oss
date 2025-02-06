@@ -1,0 +1,1 @@
+Do what you love and the money will follow. Containerization Stay hungry, stay foolish. Kafka Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Latency Optimization Data Pipeline Cloud Functions UX Optimization Logging Edge Computing Machine Learning Dream big and dare to fail. Monitoring
